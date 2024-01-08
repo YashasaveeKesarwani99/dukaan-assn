@@ -6,6 +6,7 @@ module.exports = {
       'blueGray':'#1E2640',
       'white': '#ffffff',
       'red':'#991b1b',
+      'backgroundColor': '#FAFAFA'
     },
     extend: {},
   },
